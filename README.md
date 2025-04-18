@@ -7,7 +7,7 @@
 
 - `whoami`  THAKUR VISHWANATH SINGH
 
-- `uptime`  ~17 years 11 months
+- `uptime`  ~20 years 11 months
 
 - `pwd`	LOVELY PROFESSIONAL UNIVERSITY, Punjab.
 
