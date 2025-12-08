@@ -1,51 +1,92 @@
 <h1 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
-   <!-- I'm <a href="">THAKUR VISHWANATH SINGH</a>!  -->
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
+  <br>I'm <strong>THAKUR VISHWANATH SINGH</strong>
 </h1>
+<h3 align="center">CS Student • Data & AI Enthusiast • Developer</h3>
 
-<!--<p align="center"><img src="hello-world.gif"></p>-->
+---
 
-- `whoami`  THAKUR VISHWANATH SINGH
+### 👨‍💻 `whoami`
+A learner who builds, breaks, fixes & creates. Passionate about Data Science, Backend Engineering, and AI-driven systems.
 
-- `uptime`  ~20 years 11 months
+- 🎓 B.Tech CSE — Lovely Professional University  
+- 🧠 Interests: Data Science · Machine Learning · Backend Dev · Linux · DevOps  
+- ⚡ Fun fact: I customize everything—from my Linux rice to my code style.
 
-- `pwd`	LOVELY PROFESSIONAL UNIVERSITY, Punjab.
+---
 
+# 🔧 Tech Stack & Tools  
+<h3 align="left">Languages, Tools & Ecosystem I love working with:</h3>
 
-
-<h3 align="left">I am interested in:</h3>
 <p align="left">
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="devicon" height="30" width="30"/>
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg" alt="devicon" height="30" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg" width="40"/>
+</p>
 
-<h2>ℹ️ &nbsp;Github Info</h2>
-	
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwanath2005&theme=github_dark" alt="vishwanath2005" align = "center"/></p>
+---
 
-  <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishwanath2005&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="vishwanath2005" align = "center"/></p>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwanath2005&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="vishwanath2005" align = "center"/></p>
+# 📈 GitHub Analytics
 
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwanath2005&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="vishwanath2005" /></p>
+### 🔍 Profile Overview  
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwanath2005&theme=github_dark"/>
+</p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="thakur vishwanth singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishwanath2005&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
-<details>    -->
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/vishwanath2005"><img src="https://github-profile-trophy.vercel.app/?username=vishwanath2005&margin-w=5&theme=radical" alt="vishwanath2005" /></a> </p>
+### ⚡ Stats  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishwanath2005&show_icons=true&count_private=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanath2005&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-<br>
+### 🔥 Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwanath2005&theme=black-ice&hide_border=true"/>
+</p>
+
+### 🗺 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwanath2005&theme=react-dark&hide_border=true"/>
+</p>
+
+### 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishwanath2005&theme=radical&margin-w=10&row=1"/>
+</p>
+
+---
+
+# 🎯 What I’m Working On  
+- ML & AI Projects  
+- Strengthening DSA + System Design  
+- Automations & Linux Tooling  
+- Backend Systems in Java & Python  
+
+---
+
+# 🌱 Currently Learning  
+- Machine Learning / Deep Learning  
+- Data Pipelines & SQL  
+- Cloud Fundamentals (AWS/GCP)  
+- Clean Code & System Design  
+
+---
+
+# 🤝 Connect With Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/vishwanath2005" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:thakurvishwanathsingh04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# ⭐ Final Thought  
+> “Consistency builds mastery. Curiosity builds innovation.”
