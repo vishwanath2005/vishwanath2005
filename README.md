@@ -61,7 +61,7 @@ Comfortable with Linux environments and workflow automation through scripts.
 
 # 🤝 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/vishwanath2005" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vishwanath04/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:thakurvishwanathsingh04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
