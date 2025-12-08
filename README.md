@@ -2,7 +2,7 @@
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
   <br>I'm <strong>THAKUR VISHWANATH SINGH</strong>
 </h1>
-<h3 align="center">CS Student • Data & AI Enthusiast • Developer</h3>
+<h3 align="center">CSE Student • Data & AI Enthusiast • Developer</h3>
 
 ---
 
