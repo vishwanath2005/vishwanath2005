@@ -10,7 +10,7 @@
 A learner who builds, breaks, fixes & creates. Passionate about Data Science, Backend Engineering, and AI-driven systems.
 
 - 🎓 B.Tech CSE — Lovely Professional University  
-- 🧠 Interests: Data Science · Machine Learning · Backend Dev · Linux · DevOps  
+- 🧠 Interests: Data Science · Machine Learning · Linux   
 - ⚡ Fun fact: I customize everything—from my Linux rice to my code style.
 
 ---
